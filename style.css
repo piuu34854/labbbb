@@ -1,0 +1,50 @@
+body {
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif; /* Шрифт 1 */
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+h2 {
+    font-size: 36px;
+    font-family: 'Lora', serif; /* Шрифт 2 */
+}
+
+main {
+    margin: 20px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: 'Oswald', sans-serif;
+    color: blue; 
+}
+
+
+h4 {
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: 'Kenia', sans-serif; /* Шрифт 3 */
+}
+
+/* Стилі для іконки */
+.material-icons {
+    font-size: 24px;
+    vertical-align: middle;
+}
+
+
+/* Додаткові стилі для елементів */
+.some-element {
+    font-family: 'Font4', sans-serif; /* Шрифт 4 */
+}
